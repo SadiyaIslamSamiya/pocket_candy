@@ -13,12 +13,12 @@ import { InstagramGrid } from './InstagramGrid';
 import { NewsletterSection } from './NewsletterSection';
 import { Footer } from './Footer';
 
-import { CartDrawer } from './CartDrawer';
-import { WishlistDrawer } from './WishlistDrawer';
-import { QuickViewModal } from './QuickViewModal';
-import { SearchModal } from './SearchModal';
-import { CheckoutModal } from './CheckoutModal';
-import { Toast } from './Toast';
+// import { CartDrawer } from './CartDrawer';
+// import { WishlistDrawer } from './WishlistDrawer';
+// import { QuickViewModal } from './QuickViewModal';
+// import { SearchModal } from './SearchModal';
+// import { CheckoutModal } from './CheckoutModal';
+// import { Toast } from './Toast';
 
 export function App() {
   return (
