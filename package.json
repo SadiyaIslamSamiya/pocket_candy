@@ -1,0 +1,24 @@
+{
+  "name": "pocket_candy",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "jsx:test": "xss-scan"
+  },
+  "devDependencies": {
+    "@types/alpinejs": "^3.13.11",
+    "typescript": "^5.9.3",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "@kitajs/html": "^4.2.7",
+    "@kitajs/ts-html-plugin": "^4.1.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "alpinejs": "^3.14.8",
+    "tailwindcss": "^4.3.3"
+  }
+}
